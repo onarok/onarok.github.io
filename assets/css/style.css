@@ -407,6 +407,7 @@ section .container {
 --------------------------------------------------------------*/
 .counts {
   padding: 70px 0 60px;
+  
 }
 
 .counts .count-box {
@@ -425,7 +426,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #590e38;
+  color: #91155b;
   border-radius: 50px;
 }
 
@@ -1197,3 +1198,21 @@ section .container {
 .my-float{
 	margin-top:16px;
 }
+
+
+/* #imagen {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  -webkit-animation: mymove 3ss forwards;
+  animation-fill-mode: forwards;
+  animation-name: example;
+  animation-duration: 1s;
+}
+
+@keyframes example {
+  0%   {right:0px; top:0px;}
+  100%  { right:200px; top:0px;}
+} */
+
