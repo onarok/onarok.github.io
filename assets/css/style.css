@@ -745,6 +745,7 @@ section .container {
   text-align: center;
   border-radius: 50px;
   padding: 2px 15px;
+  
 }
 
 .portfolio #portfolio-flters li {
@@ -760,6 +761,7 @@ section .container {
   margin: 0 3px 10px 3px;
   transition: all 0.3s ease-in-out;
   border-radius: 4px;
+  
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
@@ -900,7 +902,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #590e38;
+  color: #ffffff;
   border-radius: 50%;
   padding: 14px;
   float: left;
