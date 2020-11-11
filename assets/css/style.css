@@ -1216,3 +1216,21 @@ section .container {
   100%  { right:200px; top:0px;}
 } */
 
+
+.btn-outline-danger
+ 
+{
+ 
+background-color: #5f1431;
+ 
+color:#FFF;
+ 
+border-color: #ffffff00;
+ 
+}
+ 
+.btn-outline-danger:hover
+{
+ background-color: #a82054;
+ color: #5f1431;
+}
