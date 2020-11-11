@@ -164,3 +164,12 @@
   });
 
 })(jQuery);
+
+//aca lo que hace es agregarle la clase section-show a portfolio y quitarle la clase section-show a about
+function goToPortfolio(){
+  //agrego clase section-show para visualisar div
+  $( ".portfolio" ).addClass( "section-show" );
+
+  //quito clase section-show para escoder about
+  $( ".about" ).removeClass( "section-show" );
+}
