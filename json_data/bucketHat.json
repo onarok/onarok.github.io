@@ -1,26 +1,14 @@
 [
     {
-        "name": "margaritas",
+        "name": "Margaritas",
         "content": "Sombrero 55x60cm  6547",
         "img": "https://onarok.github.io/assets/img/portfolio/bucket_hat_margaritas.jpg",
         "price": "$29k"
     },
     {
-        "name": "1",
-        "content": "lorem imsun bla ex la tortulas",
+        "name": "Kanawaga",
+        "content": "Sombrero, diametro interior 40 cm ",
         "img": "https://onarok.github.io/assets/img/portfolio/bucket_hat_kanawaga.jpg",
-        "price": "$2.000"
-    },
-    {
-        "name": "2",
-        "content": "lorem imsun bla ex la tortulas",
-        "img": "https://onarok.github.io/assets/img/portfolio/bucket_hat_kanawaga.jpg",
-        "price": "$4.000"
-    },
-    {
-        "name": "3",
-        "content": "lorem imsun bla ex la tortulas",
-        "img": "https://onarok.github.io/assets/img/portfolio/bucket_hat_kanawaga.jpg",
-        "price": "$6.000"
+        "price": "$29k"
     }
 ]
